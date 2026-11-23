@@ -77,14 +77,6 @@ Selected research implementations, technical experiments and project documentati
 
 ---
 
-## Teaching & Academic Work
-
-I teach across computer science, programming, operating systems, computer architecture and cybersecurity at Australian universities.
-
-Beyond teaching, my academic work includes research publications, interdisciplinary collaborations and postgraduate thesis examination.
-
----
-
 ## Connect
 
-**[Google Scholar](https://scholar.google.com/citations?user=4828qHIAAAAJ)** · **[GitHub](https://github.com/sharjeel-sharjeel)**
+**[Google Scholar](https://scholar.google.com/citations?user=4828qHIAAAAJ)** · **[GitHub](https://github.com/sharjeel-sharjeel)** · **[LinkedIn](https://www.linkedin.com/in/sharjeel-tahir-phd)**  
