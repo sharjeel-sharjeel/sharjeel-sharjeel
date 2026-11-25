@@ -1,4 +1,4 @@
-# Dr Sharjeel Tahir
+# Sharjeel Tahir, PhD
 
 **AI Researcher · PhD in Artificial Intelligence**
 
